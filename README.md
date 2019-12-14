@@ -4,3 +4,5 @@ Language: HTML,CSS,PHP
 Framework: Codeigniter - PHP
 Database: MySQL - phpMyAdmin
 Bug: Timer resets on page refresh
+
+Default link: http://localhost/educhamp/index.php/register
