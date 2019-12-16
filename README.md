@@ -6,3 +6,5 @@ Database: MySQL - phpMyAdmin
 Bug: Timer resets on page refresh
 
 Default link: http://localhost/educhamp/index.php/register
+
+Import the sql file in DB folder to phpmyadmin. Rename the dbconfig to change the database name and password based on the sql file.
